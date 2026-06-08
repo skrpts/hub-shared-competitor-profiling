@@ -3,7 +3,7 @@ id: "dcfb295b-6d09-46ea-8f09-4ba8684a6f25"
 name: "competitor-profiling"
 display_name: "Competitor Profiling"
 description: "Building detailed competitor profiles with structured data across multiple dimensions"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "skill"
+dependencies: []
+
 contents:
   skills: 1
   prompts: 0
